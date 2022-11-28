@@ -1,0 +1,15 @@
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\bin\Debug\net6.0\NewMethodApp.exe
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\bin\Debug\net6.0\NewMethodApp.deps.json
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\bin\Debug\net6.0\NewMethodApp.runtimeconfig.json
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\bin\Debug\net6.0\NewMethodApp.dll
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\bin\Debug\net6.0\NewMethodApp.pdb
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.csproj.AssemblyReference.cache
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.AssemblyInfoInputs.cache
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.AssemblyInfo.cs
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.dll
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\refint\NewMethodApp.dll
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.pdb
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\NewMethodApp.genruntimeconfig.cache
+C:\Users\Maxx705\Desktop\repos\NewMethodApp\NewMethodApp\obj\Debug\net6.0\ref\NewMethodApp.dll

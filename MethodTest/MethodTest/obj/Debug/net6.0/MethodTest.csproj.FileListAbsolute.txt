@@ -1,0 +1,15 @@
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\bin\Debug\net6.0\MethodTest.exe
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\bin\Debug\net6.0\MethodTest.deps.json
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\bin\Debug\net6.0\MethodTest.runtimeconfig.json
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\bin\Debug\net6.0\MethodTest.dll
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\bin\Debug\net6.0\MethodTest.pdb
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.csproj.AssemblyReference.cache
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.AssemblyInfoInputs.cache
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.AssemblyInfo.cs
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.dll
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\refint\MethodTest.dll
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.pdb
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\MethodTest.genruntimeconfig.cache
+C:\Users\Maxx705\Desktop\repos\MethodTest\MethodTest\obj\Debug\net6.0\ref\MethodTest.dll

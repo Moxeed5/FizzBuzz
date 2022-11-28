@@ -1,0 +1,15 @@
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\bin\Debug\net6.0\AnotherMethodExercise.exe
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\bin\Debug\net6.0\AnotherMethodExercise.deps.json
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\bin\Debug\net6.0\AnotherMethodExercise.runtimeconfig.json
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\bin\Debug\net6.0\AnotherMethodExercise.dll
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\bin\Debug\net6.0\AnotherMethodExercise.pdb
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.csproj.AssemblyReference.cache
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.AssemblyInfoInputs.cache
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.AssemblyInfo.cs
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.dll
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\refint\AnotherMethodExercise.dll
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.pdb
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\AnotherMethodExercise.genruntimeconfig.cache
+C:\Users\Maxx705\Desktop\repos\AnotherMethodExercise\AnotherMethodExercise\obj\Debug\net6.0\ref\AnotherMethodExercise.dll
