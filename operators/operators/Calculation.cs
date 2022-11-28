@@ -8,5 +8,10 @@ namespace operators
 {
     internal class Calculation
     {
+        public static double AreaofCircle(double radius)
+        {
+            return Math.PI* Math.Pow(radius, 2);
+
+        }
     }
 }
